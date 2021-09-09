@@ -14,7 +14,8 @@ empregos :
       - usa : Platane / snk @ master
         id : snake-gif
         com :
-          github_user_name :jaqmam
+          github_user_name  :
+          jaqmam
           svg_out_path : dist / github-Contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
